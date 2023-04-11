@@ -1,0 +1,23 @@
+필기 메모장
+
+기본 글씨체 : 굴림
+코딩 글씨체 : 한컴윤고딕 250
+글씨 포인트 : 기본 10 제목 12
+
+여백 : 20 15, 15, 15
+
+
+
+[D/N] : Data Name 데이터 셋 명
+[F/N] : File Name 파일명
+[s/n] : Sheet Number 시트번호
+[c/N] : Column Name 열 이름
+[r/N] : Row Name 행 이름
+[v/N] : Vector Name 벡터명(자료)
+[M/N] : Matrix Name 매트릭스명
+
+
+확장자
+excel 파일 : .xlsx
+csv 파일 : .csv
+Rdata 파일 : .rda
